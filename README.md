@@ -1,5 +1,4 @@
 <h1>Brivet fellow comrade!</h1>
 
 <h5><em>When is class over...</em></h5>
-
-<img src>"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0w8hz0dX-tx6BDfKyYlGcRfYD87HnMSr2iShHOwnrmw&s=10"
+<img width="300" height="300" alt="Awesome_face" src="https://github.com/user-attachments/assets/1f182b2e-5de2-475d-9534-3c485e6b7798" />
